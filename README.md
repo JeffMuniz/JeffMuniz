@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋   ✨ _special_ ✨ repository because its moms says somachina.
 
-**JeffMuniz/JeffMuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 - 🔭 youtube https://www.youtube.com/@machinaEducation
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently organizing repositories again
+
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
