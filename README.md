@@ -1,4 +1,4 @@
-### Hi there 👋   ✨ _special_ ✨ repository because its moms says somachina.
+### Hi there 👋   ✨ _special_ ✨ repository because its moms says so.
 
 - 🔭 youtube https://www.youtube.com/@machinaEducation
 - 🌱 I’m currently organizing repositories again
