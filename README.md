@@ -1,6 +1,6 @@
 - 🔭 youtube https://www.youtube.com/@machinaEducation
 - 🌱 [Hire me](https://www.linkedin.com/in/jefferson-muniz-aa17311b3/)
-- 👯  Repositories you clone and use the application: Terraform   ⚡  DockerLinJenkins  💬  GoLang-Api  👋   React-Typescript  📫  k8s-ELK  🤔  Cloud-Providers   💬  SRE-v1    ✨    Security
+- 👯 OUTDATED - Repositories you clone and use the application: Terraform   ⚡  DockerLinJenkins  💬  GoLang-Api  👋   React-Typescript  📫  k8s-ELK  🤔  Cloud-Providers   💬  SRE-v1    ✨    Security
     🔭  Redes-Cisco    ✨  Kafka-Confluentv2 List, create, delete, manage, partition, topics, connectors, schemas avro
 
 <br>
