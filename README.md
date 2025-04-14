@@ -34,7 +34,7 @@ Este portfólio apresenta projetos aplicados ao negócio, com foco em infraestru
 
 | Nome | Descrição |
 |------|-----------|
-| [DESAFIO-DEVOPS-2025](https://github.com/JeffMuniz/DESAFIO-DEVOPS-2025) | Pipeline DevOps real com Docker, monitoramento e deploy no Render |
+| [DESAFIO-DEVOPS-2025](https://github.com/JeffMuniz/DESAFIO-DEVOPS-2025) | Pipeline DevOps com Docker, monitoramento e deploy no Render |
 | [devops-architecture-it-ar](https://github.com/JeffMuniz/devops-architecture-it-ar) | Ambientes declarativos com HCL e automações DevOps |
 | [Agile](https://github.com/JeffMuniz/Agile) | Práticas ágeis, boards, templates e métricas de produtividade |
 | [GoLang-Api](https://github.com/JeffMuniz/GoLang-Api) | API em Go balanceada com múltiplas instâncias via Docker Compose |
