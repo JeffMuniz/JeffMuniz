@@ -34,12 +34,9 @@ Este portfólio apresenta projetos aplicados ao negócio, com foco em infraestru
 
 | Nome | Descrição |
 |------|-----------|
-
-| [Agile](https://github.com/JeffMuniz/Agile) | Práticas ágeis, boards, templates e métricas de produtividade |
-
-| [DESAFIO-DEVOPS-2025](https://github.com/JeffMuniz/DESAFIO-DEVOPS-2025) | Pipeline DevOps com Docker, monitoramento e deploy no Render |
+| [DESAFIO-DEVOPS-2025](https://github.com/JeffMuniz/DESAFIO-DEVOPS-2025) | Pipeline DevOps real com Docker, monitoramento e deploy no Render |
 | [devops-architecture-it-ar](https://github.com/JeffMuniz/devops-architecture-it-ar) | Ambientes declarativos com HCL e automações DevOps |
-
+| [Agile](https://github.com/JeffMuniz/Agile) | Práticas ágeis, boards, templates e métricas de produtividade |
 | [GoLang-Api](https://github.com/JeffMuniz/GoLang-Api) | API em Go balanceada com múltiplas instâncias via Docker Compose |
 | [automation-model](https://github.com/JeffMuniz/automation-model) | Scripts Python para provisionamento, deploy e testes de infraestrutura |
 | [NodeJS](https://github.com/JeffMuniz/NodeJS) | Backend com TypeScript, testes automatizados e boas práticas |
@@ -54,4 +51,3 @@ Este portfólio apresenta projetos aplicados ao negócio, com foco em infraestru
 | [Windows-Helper](https://github.com/JeffMuniz/Windows-Helper) | Scripts PowerShell para ambientes Microsoft Windows |
 | [Physical-BareMetal](https://github.com/JeffMuniz/Physical-BareMetal) | Topologias físicas, servidores blade e roteamento Cisco |
 | [DevOps-SecOps](https://github.com/JeffMuniz/DevOps-SecOps) | Controles de segurança, hardening e automações de resposta |
-
