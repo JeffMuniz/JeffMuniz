@@ -1,5 +1,15 @@
 # Jefferson Muniz — Portfólio Profissional
 
+## Plataforma desenvolvida ao lado da CEO para gestão de serviços financeiros
+
+Solução de uma Loja de pequeno/médio porte no Rio de Janeiro, funcional construída lado a lado com a liderança executiva de um negócio físico em expansão. Essa plataforma resolve desafios operacionais e financeiros enfrentados: controle de caixa, múltiplas formas de pagamento, emissão de serviços com validação, e relatórios auditáveis.
+
+- Acesso do operador/painel de controle: [https://loja-py.onrender.com/painel/](https://loja-py.onrender.com/painel/)
+- Vitrine pública de serviços digitais: [https://loja-py.onrender.com/servicos/](https://loja-py.onrender.com/servicos/)
+
+Totalmente integrada com backend Flask, banco PostgreSQL, e logs estruturados para rastreabilidade total das transações. Monitoramento e saldo por forma de pagamento, suporte a Pix, RecargaPay, cartão, convênios e pagamentos pendentes. Permite exportação, reconciliação, e análise direta.
+
+---
 Este portfólio apresenta projetos aplicados ao negócio, com foco em infraestrutura resiliente, desenvolvimento full stack e liderança técnica.
 
 - Engenharia de Confiabilidade de Sites (SRE)  
